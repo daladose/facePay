@@ -14,6 +14,7 @@ export class RegisterPage implements OnInit {
   }
 
   register(form) {
+    this.router.navigateByUrl('/home');
   }
 
 }
