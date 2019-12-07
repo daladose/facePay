@@ -1,5 +1,7 @@
 {
   "name": "facePay",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
